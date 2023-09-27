@@ -1,9 +1,12 @@
 {
-  "name": "gridjs",
+  "name": "@montugroud/gridjs",
   "version": "6.0.6",
   "description": "Advanced table plugin",
   "author": "Afshin Mehrabani <afshin.meh@gmail.com>",
   "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "keywords": [
     "grid",
     "table",
