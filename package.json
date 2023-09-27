@@ -1,5 +1,5 @@
 {
-  "name": "@montugroud/gridjs",
+  "name": "@montugroup/gridjs",
   "version": "6.0.6",
   "description": "Advanced table plugin",
   "author": "Afshin Mehrabani <afshin.meh@gmail.com>",
@@ -21,7 +21,7 @@
     "jquery"
   ],
   "homepage": "https://gridjs.io",
-  "repository": "https://github.com/grid-js/gridjs",
+  "repository": "https://github.com/MontuGroup/gridjs",
   "types": "dist/index.d.ts",
   "files": [
     "dist/*",
